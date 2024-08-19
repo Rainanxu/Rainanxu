@@ -1,6 +1,6 @@
 💬 **About Me**
 
-- 👋 Hi, I’m @Rainanxu
+- 👋 Hi, I’m Rainanxu
 - 👀 I’m interested in all the skills that can realize my ideas.
 - 🌱 I’m currently learning ... It seems like I haven’t mastered anything yet.
 
