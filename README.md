@@ -1,6 +1,3 @@
-
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=Rainanxu&count_private=true&show_icons=true">
-
 - 👋 Hi, I’m @Rainanxu
 - 👀 I’m interested in all of skil can make my mind.
 - 🌱 I’m currently learning ...
@@ -10,6 +7,7 @@
 - ⚡ Fun fact: ...
 
 
+<img src="https://github-readme-stats.vercel.app/api?username=Rainanxu&count_private=true&show_icons=true">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rainanxu&layout=compact"/>
 <!---
